@@ -12,6 +12,8 @@ BOT_NAME = 'remotive'
 SPIDER_MODULES = ['scraper.spiders']
 NEWSPIDER_MODULE = 'spiders'
 
+FEED_FORMAT = 'csv'
+
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'remotive (+http://www.yourdomain.com)'
