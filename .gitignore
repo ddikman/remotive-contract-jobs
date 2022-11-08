@@ -1,0 +1,5 @@
+# scrapy cache and internals
+.scrapy
+
+# output files
+output/
