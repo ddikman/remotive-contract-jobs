@@ -12,6 +12,8 @@ Output will be placed in `output/jobs.csv`.
 
 After export, you can upload it to an Airtable base if you like by running `upload.sh`. It will ask you for the required Airtable credentials.
 
+So together, the real magic sauce is `./run.sh && ./upload.sh`.
+
 ## usage
 
 I imported the export into Airtable where I can manage the walkthrough status.
