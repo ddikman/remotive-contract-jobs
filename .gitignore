@@ -1,5 +1,8 @@
 # scrapy cache and internals
 .scrapy
 
+# env
+.env
+
 # output files
 output/

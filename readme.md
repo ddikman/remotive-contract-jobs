@@ -10,12 +10,16 @@ Just run `run.sh`. The scraper is configured to store all responses in a local c
 
 Output will be placed in `output/jobs.csv`.
 
+After export, you can upload it to an Airtable base if you like by running `upload.sh`. It will ask you for the required Airtable credentials.
+
 ## usage
 
 I imported the export into Airtable where I can manage the walkthrough status.
 
 ![Example of putting the data in Airtable](./example.png)
 
+![Example of upload processing](./airtable_upload_example.png)
+
 ## next steps
 
-Building an upload function to update the Airtable table with new entries and notify myself, automating the process.
+Nothing planned.
